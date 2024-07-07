@@ -1,6 +1,8 @@
 # Welcome to Safecy
 
-<img src="assets/logo.jpeg" alt="Safecy Logo" width="200" height="200" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 20px; border-radius: 50%;" />
+<div style="text-align: center;">
+    <img src="../assets/logo.jpeg" alt="Safecy Logo" style="border-radius: 50%; width: 200px; height: 200px;" />
+</div>
 
 Safecy is dedicated to building safety-related projects aimed at enhancing security, privacy, and safety for users across various domains. Our mission is to create tools and solutions that protect individuals and organizations from potential risks and threats.
 
